@@ -1,0 +1,33 @@
+﻿body {
+    background-color: cornsilk;
+    padding: 10px;
+}
+
+.Container {
+    margin: 10px;
+    background-color: antiquewhite;
+    padding: 10px;
+    height: 1000px;
+}
+
+.Header {
+    background-color: mediumpurple;
+}
+
+.Footer {
+    padding: 10px;
+    margin-top: 10px;
+    background-color: burlywood;
+}
+
+.Section {
+    align-content: center;
+    height: 800px;
+    width: 80%;
+    padding-top: 10px;
+}
+
+.NavBar {
+    background-color: coral;
+    height: 30px;
+}
